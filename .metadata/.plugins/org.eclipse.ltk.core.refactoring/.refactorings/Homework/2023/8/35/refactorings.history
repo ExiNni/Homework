@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.kh.practice.func&apos; to &apos;com.kh.practice3.func&apos;&#x0D;&#x0A;- Original project: &apos;Homework&apos;&#x0D;&#x0A;- Original element: &apos;Homework/src/com.kh.practice.func&apos;&#x0D;&#x0A;- Renamed element: &apos;Homework/src/com.kh.practice3.func&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.kh.practice.func&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.kh.practice.func" name="com.kh.practice3.func" qualified="false" references="true" stamp="1693396894212" textual="false" version="1.0"/>
+</session>

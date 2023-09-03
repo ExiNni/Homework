@@ -16,6 +16,6 @@ public class CastingPractice1 {
 		word2 = (int)word1;
 		
 		System.out.println(word1 + " unicode : " + word2);
-	} 
+	}
 
 }

@@ -20,7 +20,7 @@ public class IfSwitchPractice1 {
 			 }
 		 }else {
 			 System.out.println("양수만 입력해주세요");
-		 } 
+		 }
 	}
 
 }

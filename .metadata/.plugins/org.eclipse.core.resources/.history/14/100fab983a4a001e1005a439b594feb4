@@ -22,7 +22,7 @@ public class Pracitce14 {
 	                    lotto[j] = num;
 	                    break;
 	                }
-	            } 
+	            }
 
 	            if (j == i) {
 	                lotto[i] = num;

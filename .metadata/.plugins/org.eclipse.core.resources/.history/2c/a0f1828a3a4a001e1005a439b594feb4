@@ -16,5 +16,5 @@ public class Practice_Hard19 {
             }
             System.out.println();
         }
-    } 
+    }
 }

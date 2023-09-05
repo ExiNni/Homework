@@ -1,0 +1,17 @@
+package com.kh.example.practice6.run;
+
+import com.kh.example.practice6.model.vo.Cake;
+
+public class CakeRun {
+
+	public static void main(String[] args) {
+		Cake cake = new Cake();
+        cake.setKind("빵");
+        cake.setName("케이크");
+        cake.setFlavor("블루베리");
+        cake.setNumOf(1);
+        cake.setPrice(15000);
+
+        System.out.println(cake.information());
+    }
+}

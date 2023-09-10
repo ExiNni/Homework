@@ -6,7 +6,7 @@ public class Book {
 	private String publisher;
 
 	public Book() {
-
+ 
 	}
 
 	public Book(String title, String author, String publisher) {

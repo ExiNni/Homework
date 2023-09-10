@@ -6,13 +6,19 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="SnackController"/>
+		<item key="selection" value="bList"/>
 		<list key="findhistory">
+			<item value="bookList"/>
+			<item value=""/>
+			<item value="coup"/>
+			<item value="cou"/>
+			<item value="coupon"/>
 			<item value="cake"/>
 			<item value="snack"/>
 			<item value="uniqueNumbers"/>
 		</list>
 		<list key="replacehistory">
+			<item value="bList"/>
 			<item value="SnackController"/>
 			<item value="cake"/>
 			<item value="num"/>

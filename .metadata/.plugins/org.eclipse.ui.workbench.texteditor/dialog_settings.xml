@@ -6,8 +6,11 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="bList"/>
+		<item key="selection" value="lc"/>
 		<list key="findhistory">
+			<item value="libraryController"/>
+			<item value="showAllBooks"/>
+			<item value="createMemberAndShowMyPage"/>
 			<item value="bookList"/>
 			<item value=""/>
 			<item value="coup"/>
@@ -18,6 +21,9 @@
 			<item value="uniqueNumbers"/>
 		</list>
 		<list key="replacehistory">
+			<item value="lc"/>
+			<item value="Books"/>
+			<item value="MyPage"/>
 			<item value="bList"/>
 			<item value="SnackController"/>
 			<item value="cake"/>
@@ -25,8 +31,8 @@
 		</list>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
-		<item key="DIALOG_X_ORIGIN" value="807"/>
-		<item key="DIALOG_Y_ORIGIN" value="264"/>
+		<item key="DIALOG_X_ORIGIN" value="1044"/>
+		<item key="DIALOG_Y_ORIGIN" value="221"/>
 		<item key="DIALOG_WIDTH" value="322"/>
 		<item key="DIALOG_HEIGHT" value="391"/>
 		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>

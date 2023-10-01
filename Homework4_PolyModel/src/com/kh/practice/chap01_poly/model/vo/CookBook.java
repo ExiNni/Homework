@@ -4,7 +4,7 @@ public class CookBook extends Book {
 	private boolean coupon;
 
 	public CookBook() {
-		super();
+		super();  
 		this.coupon = false;
 	}
 

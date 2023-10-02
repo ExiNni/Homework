@@ -2,10 +2,10 @@ package com.kh.p1.inherit.parent.model.vo;
 
 public class Person {
 
-	private String name;
-	private int age;
-	private char gender;
-	private String addr;
+	protected String name;
+	protected int age;
+	protected char gender;
+	protected String addr;
 
 	public Person() {
 	}
@@ -48,6 +48,10 @@ public class Person {
 
 	public void setAddr(String addr) {
 		this.addr = addr;
+	}
+	
+	public String information() {
+		return "이름: " + name + ", 나이: " + age + ", 성별: " + gender + ", 주소: " + addr;
 	}
 
 }

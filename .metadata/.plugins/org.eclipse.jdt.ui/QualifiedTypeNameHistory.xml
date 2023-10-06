@@ -3,4 +3,6 @@
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="com.kh.practice.chap01_poly.model.vo.Book"/>
     <fullyQualifiedTypeName name="com.kh.practice.chap01_poly.model.vo.Member"/>
+    <fullyQualifiedTypeName name="com.kh.prac1.parent.model.vo.Computer"/>
+    <fullyQualifiedTypeName name="com.kh.prac2.child.model.vo.Rectangle"/>
 </qualifiedTypeNameHistroy>

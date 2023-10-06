@@ -6,8 +6,9 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="lc"/>
+		<item key="selection" value="gender"/>
 		<list key="findhistory">
+			<item value="grade"/>
 			<item value="libraryController"/>
 			<item value="showAllBooks"/>
 			<item value="createMemberAndShowMyPage"/>
@@ -21,6 +22,7 @@
 			<item value="uniqueNumbers"/>
 		</list>
 		<list key="replacehistory">
+			<item value="gender"/>
 			<item value="lc"/>
 			<item value="Books"/>
 			<item value="MyPage"/>

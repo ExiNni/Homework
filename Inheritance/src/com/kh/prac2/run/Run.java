@@ -13,4 +13,3 @@ public class Run {
 		System.out.println(rec.information());
 	}
 }
-  
